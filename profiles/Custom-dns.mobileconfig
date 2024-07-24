@@ -14,7 +14,7 @@
 					<string>1.14.18.130</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.kusu.micrsky.com:8443/dns-query</string>
+				<string>https://dns.kusu.micrsky.com:8448/dns-query/iphone</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Private Security DNS over HTTPS</string>
