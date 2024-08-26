@@ -11,10 +11,10 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>1.14.18.130</string>
+					<string>47.108.74.119</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.kusu.micrsky.com:8443/dns-query/iphone</string>
+				<string>https://pdns.micrsky.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Private Security DNS over HTTPS</string>
