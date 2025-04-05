@@ -11,7 +11,7 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>47.108.56.119</string>
+					<string>110.40.74.11</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://pdns.kusu.micrsky.com/dns-query</string>
@@ -19,7 +19,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use Private Security DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Private Security DNS over HTTPS</string>
+			<string>Private Security DNS over HTTPS (China Telecom)</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
